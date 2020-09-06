@@ -1,1 +1,1 @@
-# TrashCan
+# Box Class
